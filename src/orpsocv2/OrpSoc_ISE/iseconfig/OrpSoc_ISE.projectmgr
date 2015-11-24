@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="OrpSoc_ISE" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/or1200_fpu_arith |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|or1200|or1200_fpu_arith.v</ClosedNode>
+         <ClosedNode>/or1200_fpu_intfloat_conv |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|or1200|or1200_fpu_intfloat_conv.v</ClosedNode>
+         <ClosedNode>/or1200_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|or1200|or1200_top.v</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/LEM - lem</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/LEM - lem/Lem_Central - lem_central/LEM_Select - lem_select</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/LEM - lem/Sensor0 - sensor</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/LEM - lem/Sensor1 - sensor</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/LEM - lem/Sensor2 - sensor</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/LEM - lem/Sensor3 - sensor</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/arbiter_dbus - wb_arbiter</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top0 - or1200_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top1 - or1200_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_0 - or1200_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_0 - or1200_top/or1200_cpu - or1200_cpu</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_0 - or1200_top/or1200_dc_top - or1200_dc_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_0 - or1200_top/or1200_dmmu_top - or1200_dmmu_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_0 - or1200_top/or1200_ic_top - or1200_ic_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_0 - or1200_top/or1200_immu_top - or1200_immu_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_1 - or1200_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/or1200_top_inst - or1200_top</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/spi0 - simple_spi</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/uart16550_0 - uart16550</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v/xilinx_ddr2_0 - xilinx_ddr2/xilinx_ddr2_if0 - xilinx_ddr2_if/ddr2_mig - ddr2_mig</ClosedNode>
+         <ClosedNode>/uart16550 |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|uart16550|uart16550.v</ClosedNode>
+         <ClosedNode>/wb_arbiter |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|arbiter|wb_arbiter.v</ClosedNode>
+         <ClosedNode>/xilinx_ddr2 |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|xilinx_ddr2|xilinx_ddr2.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>uart16550_0 - uart16550 (/home/fpgadevelop/workspace/openriscGEMSCLAIM/src/orpsocv2/rtl/verilog/uart16550/uart16550.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >53</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000002ac000000020000000000000000000000000200000064ffffffff000000810000000300000002000002ac0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>uart16550_0 - uart16550 (/home/fpgadevelop/workspace/openriscGEMSCLAIM/src/orpsocv2/rtl/verilog/uart16550/uart16550.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >113</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000162000000040101000100000000000000000000000064ffffffff000000810000000000000004000000510000000100000000000000290000000100000000000000840000000100000000000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>arbiter.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000125000000010001000100000000000000000000000064ffffffff000000810000000000000001000001250000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001510000012001000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/or1200_fpu_arith |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|or1200|or1200_fpu_arith.v</ClosedNode>
+         <ClosedNode>/or1200_fpu_intfloat_conv |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|or1200|or1200_fpu_intfloat_conv.v</ClosedNode>
+         <ClosedNode>/orpsoc_top |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|orpsoc_top|orpsoc_top.v</ClosedNode>
+         <ClosedNode>/simple_spi |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|simple_spi|simple_spi.v</ClosedNode>
+         <ClosedNode>/uart16550 |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|rtl|verilog|uart16550|uart16550.v</ClosedNode>
+         <ClosedNode>/wb_arbiter |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|arbiter|wb_arbiter.v</ClosedNode>
+         <ClosedNode>/xilinx_ddr2 |home|fpgadevelop|workspace|openriscGEMSCLAIM|src|orpsocv2|boards|xilinx|atlys|rtl|verilog|xilinx_ddr2|xilinx_ddr2.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001c9000000020000000000000000000000000200000064ffffffff000000810000000300000002000001c90000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>
