@@ -43,7 +43,7 @@ then
 	cd $direct/src/sw/elf
 	make clean all
 
-	bin_file=test.bin
+	bin_file=lem_test_bsw.bin
 
 	cp $direct/src/Libs/or1ksim.cfg $output_dir
 fi
