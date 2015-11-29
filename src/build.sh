@@ -40,12 +40,10 @@ then
 	echo - Compiling bare metal -
 	echo ------------------------
 
-	cd $direct/src/sw/elf/llrt
+	cd $direct/src/sw/elf
 	make clean all
 
-	#make PROJECT_PATH=$direct 
-    	#bin_file=lem_test_bsw.bin
-	bin_file=llrt_bsw.bin
+	bin_file=test.bin
 
 	cp $direct/src/Libs/or1ksim.cfg $output_dir
 fi
